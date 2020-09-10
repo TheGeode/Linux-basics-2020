@@ -1,9 +1,21 @@
-Задание 3
-1.	id > t3
-	ls >> t3
-	ps >> t3
-	date >> t3
-	grep t3 t3
-	t3
-2.	cal -y 2019 > calendar	
-
+Задание 4
+1.	ls /etc | grep .conf | head -5
+	cpufreq-bench.conf
+	dconf
+	dhcpcd.conf
+	e2scrub.conf
+	fuse.conf
+2.	
+┌─[gozas@where]─[~/work]
+└──╼ $ mkdir WouldntOpen
+┌─[gozas@where]─[~/work]
+└──╼ $ chmod -x WouldntOpen/
+┌─[gozas@where]─[~/work]
+└──╼ $ cd WouldntOpen/
+bash: cd: WouldntOpen/: Permission denied
+┌─[✗]─[gozas@where]─[~/work]
+└──╼ $ chmod +x WouldntOpen/
+┌─[gozas@where]─[~/work]
+└──╼ $ cd WouldntOpen/
+┌─[gozas@where]─[~/work/WouldntOpen]
+└──╼ $ 	
