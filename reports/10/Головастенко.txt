@@ -1,0 +1,265 @@
+1.	id
+	uid=1000(gozas) gid=1000(gozas) groups=1000(gozas)
+2.	date
+	Thu Sep 10 11:07:29 AM UTC 2020
+3.	pwd
+	/home/gozas
+4.	ls
+	'2020-08-10 21-54-25.mkv'                                  MyNewSystem.mp4
+	'2020-08-10 22-10-58.mkv'                                  package-query
+	CEYE                                                      photos-cropped.png
+	Downloads                                                 photos.png
+	fille                                                     Pictures
+	forge-1.15.2-31.2.36-installer.jar.log                    python_projects
+	forge-1.16.1-32.0.75-installer.jar.log                    S03-E11.mp4
+	forge-1.8.9-11.15.1.1722-installer.jar.log                scan.bash
+	forge-1.8.9-11.15.1.2318-1.8.9-installer.jar.log          Stars2.jpg
+	goodmir                                                   Stars3.jpg
+	GPUCache                                                  Stars.jpg
+	heyyyyfile                                                test
+	How.To.Train.Your.Dragon.2010.1080p.BrRip.x264.YIFY.mp4   testclicks
+	i3barclicky                                               test.png
+	i3locked                                                  TheGeode
+	libxft-bgra                                               trying
+	Lock.jpg                                                  wallpaper-1.jpg
+	lock.png                                                  wallpaper.jpeg
+	mirrorlist                                                wallpaper.jpg
+ 	mirrorlist.old                                            yaourt
+
+4.1	ls -l
+	total 2388380
+	-rw-r--r--  1 gozas gozas    5306409 Aug 10 21:54 '2020-08-10 21-54-25.mkv'
+	-rw-r--r--  1 gozas gozas   22471806 Aug 10 22:11 '2020-08-10 22-10-58.mkv'
+	drwxr-xr-x  5 gozas gozas       4096 Jul 23 18:52  CEYE
+	drwxr-xr-x  3 gozas gozas       4096 Aug 24 18:48  Downloads
+	-rw-r--r--  1 gozas gozas         16 Aug 13 11:02  fille
+	-rw-r--r--  1 gozas gozas     814758 Aug 21 18:32  forge-1.15.2-31.2.36-installer.jar.log
+	-rw-r--r--  1 gozas gozas     897942 Jul 23 13:30  forge-1.16.1-32.0.75-installer.jar.log
+	-rw-r--r--  1 gozas gozas       1246 Aug 21 19:28  forge-1.8.9-11.15.1.1722-installer.jar.log
+	-rw-r--r--  1 gozas gozas       1183 Aug 21 19:22  forge-1.8.9-11.15.1.2318-1.8.9-installer.jar.log
+	-r--r--r--  1 gozas gozas      21171 Jul 28 00:46  goodmir
+	drwx------  2 gozas gozas       4096 Aug  1 08:01  GPUCache
+	-rw-r--r--  1 gozas gozas         17 Aug 13 11:29  heyyyyfile
+	-rw-r--r--  1 gozas gozas 1500966863 Aug 22 21:11  How.To.Train.Your.Dragon.2010.1080p.BrRip.x264.YIFY.mp4
+	-rw-r--r--  1 gozas gozas         15 Aug 13 12:27  i3barclicky
+	-rwxr-xr-x  1 gozas gozas        242 Aug 12 20:35  i3locked
+	drwxr-xr-x  5 gozas gozas       4096 Jul 30 09:22  libxft-bgra
+	-rw-r--r--  1 gozas gozas      23195 Aug 12 20:37  Lock.jpg
+	-rw-r--r--  1 gozas gozas       4079 Aug 12 20:39  lock.png
+	-rw-r--r--  1 root  root       12928 Jul 25 13:05  mirrorlist
+	-rw-r--r--  1 root  root       31705 Jul 22 20:39  mirrorlist.old
+	-rw-r--r--  1 gozas gozas   16110838 Aug 10 22:14  MyNewSystem.mp4
+	drwxr-xr-x  5 gozas gozas       4096 Jul 22 20:35  package-query
+	-rw-r--r--  1 gozas gozas   10085377 Sep  9 13:31  photos-cropped.png
+	-rw-r--r--  1 gozas gozas   13363664 Sep  9 13:18  photos.png
+	drwxr-xr-x  3 gozas gozas       4096 Jul 24 08:33  Pictures
+	drwxr-x--- 13 gozas gozas       4096 Sep 10 08:53  python_projects
+	-rw-r--r--  1 gozas gozas  864709763 Aug  5 18:13  S03-E11.mp4
+	-rwxr-x---  1 gozas gozas        376 Sep  9 13:02  scan.bash
+	-rw-r--r--  1 gozas gozas    1821441 Aug 23 16:23  Stars2.jpg
+	-rw-r--r--  1 gozas gozas    1843243 Aug 23 16:23  Stars3.jpg
+	-rw-r--r--  1 gozas gozas    3296545 Aug 23 16:20  Stars.jpg
+	-rwxr-xr-x  1 gozas gozas         55 Aug 13 11:28  test
+	-rw-r--r--  1 gozas gozas      14745 Sep  7 05:32  testclicks
+	-rw-r--r--  1 gozas gozas      16146 Sep  9 13:04  test.png
+	drwxr-xr-x  6 gozas gozas       4096 Sep 10 10:57  TheGeode
+	-rwxr-xr-x  1 gozas gozas        301 Sep  8 03:35  trying
+	-rw-r--r--  1 gozas gozas     579230 Aug 10 20:53  wallpaper-1.jpg
+	-rw-r--r--  1 gozas gozas       9424 Aug 10 20:50  wallpaper.jpeg
+	-rw-r--r--  1 gozas gozas    3175463 Aug 31 12:25  wallpaper.jpg
+	drwxr-xr-x  5 gozas gozas       4096 Jul 22 20:36  yaourt
+5.	mkdir work
+	cd work
+6.	echo 1234567890 > digits.txt
+	cat digits.txt
+	1234567890
+7.	cat digits.txt >> twolines
+	cat digits.txt >> twolines
+8.	for (( i = 0; i < 65; i++ )); do cat digits.txt >> sflines; done
+9.	wc sflines
+	 65  65 715 sflines
+10.	sudo head -5 /etc/passwd > headfile
+	sudo tail -5 /etc/passwd > tailfile
+11.	ls -l /etc
+	total 1444
+	drwxr-xr-x  2 root root   4096 Jul 23 02:49 apparmor
+	drwxr-xr-x  7 root root   4096 Aug 31 23:28 apparmor.d
+	-rwxr-xr-x  1 root root   7892 Aug 10 09:49 arch-i3status
+	-rw-r--r--  1 root root      0 Aug 21 11:19 arch-release
+	drwxr-xr-x  3 root root   4096 Jul 22 23:06 audisp
+	drwxr-xr-x  2 root root   4096 Jul 22 23:06 audit
+	drwxr-xr-x  3 root root   4096 Jul 22 23:52 avahi
+	-rw-r--r--  1 root root     28 Aug  9 16:27 bash.bash_logout
+	-rw-r--r--  1 root root    618 Aug  9 16:27 bash.bashrc
+	drwxr-xr-x  2 root root   4096 Jul 23 02:49 bash_completion.d
+	-rw-r--r--  1 root root    447 Apr 11 09:43 bindresvport.blacklist
+	drwxr-xr-x  2 root root   4096 Jun 23 11:09 binfmt.d
+	drwxr-xr-x  4 root root   4096 Jul 22 23:06 ca-certificates
+	drwxr-xr-x  2 root root   4096 Jul 23 02:49 cifs-utils
+	drwxr-xr-x  2 root root   4096 Jul 22 23:21 conf.d
+	-rw-r--r--  1 root root    175 Jun  2 15:33 cpufreq-bench.conf
+	-rw-------  1 root root    789 Jul 23 00:36 crypttab
+	drwxr-xr-x  4 root cups   4096 Aug 31 23:28 cups
+	drwxr-xr-x  2 root root   4096 Jul 23 02:49 cupshelpers
+	drwxr-xr-x  3 root root   4096 Jul 22 23:52 dconf
+	drwxr-xr-x  2 root root   4096 Sep 10 06:51 default
+	drwxr-xr-x  2 root root   4096 Feb 19  2020 depmod.d
+	-rw-r--r--  1 root root   1438 Sep  7 13:25 dhcpcd.conf
+	-rw-r--r--  1 root root    685 May  7 06:56 e2scrub.conf
+	-rw-r--r--  1 root root     97 Aug 12 19:29 environment
+	-rw-r--r--  1 root root   1362 Jun  7 20:32 ethertypes
+	drwxr-xr-x  2 root root  36864 Aug 31 23:28 firejail
+	drwxr-xr-x  4 root root   4096 Jul 22 23:52 fonts
+	drwxr-xr-x  2 root root   4096 Jul 23 02:49 foomatic
+	-rw-r--r--  1 root root    521 Jul 22 23:07 fstab
+	-rw-r--r--  1 root root    693 Aug  5 18:13 fuse.conf
+	-rw-r--r--  1 root root   2584 Sep  1 18:12 gai.conf
+	drwxr-xr-x  6 root root   4096 Jul 22 21:35 gconf
+	drwxr-xr-x  3 root root   4096 Sep  9 13:22 gimp
+	-rw-r--r--  1 root root    755 Jul 22 21:09 group
+	-rw-r--r--  1 root root    741 Jul 22 20:33 group-
+	drwxr-xr-x  2 root root   4096 Aug  1 03:09 grub.d
+	-rw-------  1 root root    669 Jul 22 21:09 gshadow
+	-rw-------  1 root root    657 Jul 22 20:33 gshadow-
+	drwxr-xr-x  2 root root   4096 Jul 23 02:49 gtk-2.0
+	drwxr-xr-x  2 root root   4096 Sep  7 05:47 gtk-3.0
+	-rw-r--r--  1 root root    450 May 16 12:09 healthd.conf
+	-r--r--r--  1 root root   2048 Jul 23 00:38 homekey
+	-rw-r--r--  1 root root     73 Aug 21 11:19 host.conf
+	-rw-r--r--  1 root root      6 Jul 23 03:44 hostname
+	-rw-r--r--  1 root root     65 Aug 21 11:19 hosts
+	drwxr-xr-x  3 root root   4096 Jul 22 21:10 hotplug
+	drwxr-xr-x  2 root root   4096 Aug 31 23:28 hp
+	drwxr-xr-x  2 root root   4096 Aug 12 09:52 i3
+	-rw-r--r--  1 root root    490 Sep  9  2019 i3blocks.conf
+	-rwxr-xr-x  1 root root    613 Jul 30 07:31 i3conmon
+	-rwxrwxrwx  1 root root     73 Aug 10 21:41 i3connection
+	-rwxrwxrwx  1 root root      5 Aug 10 21:41 i3cpuus
+	-rwxr-xr-x  1 root root    242 Aug 12 20:40 i3locked
+	-rwxrwxrwx  1 root root      3 Aug 10 21:41 i3ramperc
+	-rw-rw-rw-  1 root root      2 Aug 23 00:03 i3safebat
+	-rw-r--r--  1 root root   1001 Jul  7 16:45 i3status.conf
+	-rwxrwxrwx  1 root root      3 Aug 10 21:41 i3swpperc
+	-rwxr-xr-x  1 root root   1781 Jul 23 03:09 i3usmon
+	-rwxr-xr-x  1 root root    612 Jul 22 21:13 i3volmon
+	-rwxrwxrwx  1 root root     40 Aug 10 21:41 i3volume
+	drwxr-xr-x  2 root root   4096 Sep  7 05:47 ImageMagick-7
+	drwxr-xr-x  4 root root   4096 Jul 22 23:06 initcpio
+	-rw-r--r--  1 root root    714 Feb 13  2020 inputrc
+	drwxr-xr-x  2 root root   4096 Aug 10 13:18 iproute2
+	drwxr-xr-x  2 root root   4096 Jul 22 23:06 iptables
+	-rw-r--r--  1 root root     20 Aug 21 11:19 issue
+	drwxr-xr-x  4 root root   4096 Aug 21 18:58 java11-openjdk
+	drwxr-xr-x  6 root root   4096 Aug 31 23:28 java-8-openjdk
+	drwxr-xr-x  5 root root   4096 Aug 21 19:16 java-openjdk
+	drwxr-xr-x  3 root root   4096 Jul 22 23:06 kernel
+	drwxr-xr-x  2 root root   4096 Jul  7 21:18 keyutils
+	-rw-r--r--  1 root root    369 May 23 16:19 krb5.conf
+	-rw-r--r--  1 root root 151520 Sep 10 10:44 ld.so.cache
+	-rw-r--r--  1 root root    117 Aug 21 11:19 ld.so.conf
+	drwxr-xr-x  2 root root   4096 Sep  7 05:47 ld.so.conf.d
+	-rw-r--r--  1 root root     38 Sep  3 19:42 libao.conf
+	-rw-r-----  1 root root    191 Oct 27  2019 libaudit.conf
+	drwxr-xr-x  3 root root   4096 Jul 22 23:52 libblockdev
+	drwxr-xr-x  2 root root   4096 Jul 22 23:06 libnl
+	drwxr-xr-x  2 root root   4096 Jan 27  2020 libpaper.d
+	drwxr-xr-x  2 root root   4096 Sep  7 05:47 libreoffice
+	-rw-r--r--  1 root root     24 Jun 26 02:00 libva.conf
+	-rw-r--r--  1 root root   9966 Jul 23 00:24 locale.gen
+	-rw-r--r--  1 root root   9984 Sep  1 18:12 locale.gen.pacnew
+	lrwxrwxrwx  1 root root     25 Aug 10 10:02 localtime -> ../usr/share/zoneinfo/UTC
+	-rw-r--r--  1 root root  23195 Aug 12 20:38 lock.jpg
+	-rw-r--r--  1 root root   4079 Aug 12 20:40 lock.png
+	-rw-r--r--  1 root root   5645 Sep  7 13:42 login.defs
+	drwxr-xr-x  2 root root   4096 Aug 31 23:28 logrotate.d
+	-rw-r--r--  1 root root     89 Jul 11 15:16 lsb-release
+	drwxr-xr-x  5 root root   4096 Jul 22 23:52 lvm
+	-rw-r--r--  1 root root 162299 May 16 09:09 lynx.cfg
+	-rw-r--r--  1 root root   3581 May 16 09:09 lynx.lss
+	-r--r--r--  1 root root     33 Jul 22 23:06 machine-id
+	-rw-r--r--  1 root root    272 May  5 04:20 mailcap
+	-rw-r--r--  1 root root   5792 Jul  1 01:52 makepkg.conf
+	-rw-r--r--  1 root root   5196 Jun 23 19:48 man_db.conf
+	-rw-r--r--  1 root root   2349 Nov 13  2019 mdadm.conf
+	-rw-r--r--  1 root root  67454 May  5 04:20 mime.types
+	-rw-r--r--  1 root root    812 May  7 06:56 mke2fs.conf
+	-rw-r--r--  1 root root   2498 Jul 23 00:26 mkinitcpio.conf
+	drwxr-xr-x  2 root root   4096 Sep  7 05:47 mkinitcpio.d
+	drwxr-xr-x  2 root root   4096 Feb 19  2020 modprobe.d
+	drwxr-xr-x  2 root root   4096 Jun 23 11:09 modules-load.d
+	-rw-r--r--  1 root root      0 Aug 21 11:19 motd
+	drwxr-xr-x  2 root root   4096 Jul 23 02:49 mpv
+	lrwxrwxrwx  1 root root     19 Aug 21 11:19 mtab -> ../proc/self/mounts
+	drwxr-xr-x  3 root root   4096 Jul 23 17:45 ndctl
+	-rw-r--r--  1 root root    767 Apr 11 09:43 netconfig
+	drwxr-xr-x  7 root root   4096 Aug 31 23:28 NetworkManager
+	drwxr-xr-x  2 root root   4096 Jul 23 02:49 nginx
+	-rw-r--r--  1 root root   2717 Sep  1 18:12 nscd.conf
+	-rw-r--r--  1 root root    312 Aug 21 11:19 nsswitch.conf
+	drwxr-xr-x  2 root root   4096 Jul 22 23:06 openldap
+	drwxr-xr-x  2 root root   4096 Jul 23 02:49 openmpi
+	drwxr-xr-x  4 root root   4096 Jul 23 02:49 openvpn
+	lrwxrwxrwx  1 root root     21 Jul 22 23:06 os-release -> ../usr/lib/os-release
+	-rw-r--r--  1 root root   2881 Jul 28 00:40 pacman.conf
+	drwxr-xr-x  3 root root   4096 Aug  5 14:05 pacman.d
+	drwxr-xr-x  2 root root   4096 Sep 10 06:51 pam.d
+	-rw-r--r--  1 root root     68 Jan 27  2020 papersize
+	-rw-r--r--  1 root root   1278 Jul 22 21:09 passwd
+	-rw-r--r--  1 root root   1207 Jul 22 20:33 passwd-
+	drwxr-xr-x  2 root root   4096 Aug 31 23:28 pkcs11
+	drwxr-xr-x  3 root root   4096 Jul 22 23:52 polkit-1
+	-rw-r--r--  1 root root    244 Jul 24 15:15 printcap
+	-rw-r--r--  1 root root    841 Aug 21 11:19 profile
+	drwxr-xr-x  2 root root   4096 Sep 10 08:21 profile.d
+	-rw-r--r--  1 root root   3171 Sep  5 09:13 protocols
+	drwxr-xr-x  2 root root   4096 Jul 23 02:49 pulse
+	drwxr-xr-x  2 root root   4096 Jun  4 09:18 rc_keymaps
+	-rw-r--r--  1 root root   7473 Jun  4 09:18 rc_maps.cfg
+	-rw-r--r--  1 root root   1814 Jul  7 21:18 request-key.conf
+	drwxr-xr-x  2 root root   4096 Jul 23 02:49 request-key.d
+	-rw-r--r--  1 root root    207 Sep 10 11:22 resolv.conf
+	-rw-r--r--  1 root root    523 Aug 10 16:47 rhashrc
+	-rw-r--r--  1 root root   1634 Sep  1 18:12 rpc
+	drwxr-xr-x  3 root root   4096 Sep  9 13:00 sane.d
+	-rw-r--r--  1 root root    139 Aug 21 11:19 securetty
+	drwxr-xr-x  4 root root   4096 Aug 31 23:28 security
+	-rw-r--r--  1 root root  10593 May 16 12:09 sensors3.conf
+	drwxr-xr-x  2 root root   4096 May 16 12:09 sensors.d
+	-rw-r--r--  1 root root 297473 Sep  5 09:13 services
+	-rw-------  1 root root    775 Jul 22 21:09 shadow
+	-rw-------  1 root root    753 Jul 22 20:33 shadow-
+	-rw-r--r--  1 root root    102 Jul 22 20:33 shells
+	drwxr-xr-x  2 root root   4096 Aug 31 23:28 skel
+	-rw-r--r--  1 root root   2030 May  7 04:28 slsh.rc
+	drwxr-xr-x  4 root root   4096 Aug 31 23:28 speech-dispatcher
+	drwxr-xr-x  2 root root   4096 Aug 31 23:28 ssh
+	drwxr-xr-x  5 root root   4096 Jul 29 20:53 ssl
+	drwxrwxrwx  5 root root   4096 Aug 15 19:01 status
+	-rw-r--r--  1 root root   3973 Jul 22 14:15 sudo.conf
+	-r--r-----  1 root root   3203 Jul 23 02:58 sudoers
+	drwxr-x---  2 root root   4096 Jun 19 02:36 sudoers.d
+	-r--r-----  1 root root   3128 Jul 22 14:15 sudoers.pacnew
+	-rw-r--r--  1 root root   6169 Jul 22 14:15 sudo_logsrvd.conf
+	-rw-r--r--  1 root root     35 Aug 22 21:11 sysctl.conf
+	drwxr-xr-x  2 root root   4096 Jun 23 11:09 sysctl.d
+	drwxr-xr-x  5 root root   4096 Sep  7 05:47 systemd
+	drwxr-xr-x  9 root root   4096 Aug 31 23:30 texmf
+	drwxr-xr-x  2 root root   4096 Jun 23 11:09 tmpfiles.d
+	-rw-r--r--  1 root root    738 Nov 13  2019 trusted-key.key
+	-rw-r--r--  1 root root    938 Jul  1 16:40 ts.conf
+	drwxr-xr-x  4 root root   4096 Sep  7 05:47 udev
+	drwxr-xr-x  2 root root   4096 Aug 16 14:24 udisks2
+	drwxr-xr-x  2 root root   4096 Jul 23 02:49 UPower
+	-rw-r--r--  1 root root     51 May 11 16:34 vdpau_wrapper.cfg
+	-rw-r--r--  1 root root    924 Aug 13 08:28 vimrc
+	drwxr-xr-x  2 root root   4096 Feb 22  2020 wpa_supplicant
+	-rw-r--r--  1 root root    236 Sep 10 06:46 wpa_supplicant.conf
+	drwxr-xr-x  4 root root   4096 Jul 23 02:49 X11
+	-rw-r--r--  1 root root    642 May  7 06:37 xattr.conf
+	drwxr-xr-x 11 root root   4096 Sep 10 06:51 xdg
+	drwxr-xr-x  2 root root   4096 Sep 10 10:44 xinetd.d
+	drwxr-xr-x  2 root root   4096 Jul 22 21:34 xml
+	-rw-r--r--  1 root root   1285 Jul 22 20:35 yaourtrc
+12.	ls -l /etc | wc
+	179    1610    9673	
+(значит 178 тк одна лишняя)
