@@ -1,9 +1,5 @@
-Задание 1
-1.	mkdir DirA
-	mkdir DirB
-	echo agoew > DirA/a
-	echo foedvbvges > DirA/b
-	echo afoevdgrsh > DirB/a
-	echo kerijghlirfj > DirB/b
-	cat */* > sum
-2.	rm -Rv Dir*
+Задание 2
+1.	grep gozas /etc/passwd
+	gozas:x:1000:1000::/home/gozas:/bin/bash
+2.	date -d 2021-01-01
+	Fri Jan  1 12:00:00 AM UTC 2021
