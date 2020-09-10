@@ -1,21 +1,9 @@
-Задание 4
-1.	ls /etc | grep .conf | head -5
-	cpufreq-bench.conf
-	dconf
-	dhcpcd.conf
-	e2scrub.conf
-	fuse.conf
-2.	
+Задание 5
+1.
 ┌─[gozas@where]─[~/work]
-└──╼ $ mkdir WouldntOpen
+└──╼ $ touch a.txt
 ┌─[gozas@where]─[~/work]
-└──╼ $ chmod -x WouldntOpen/
+└──╼ $ chmod 640 a.txt
+2.
 ┌─[gozas@where]─[~/work]
-└──╼ $ cd WouldntOpen/
-bash: cd: WouldntOpen/: Permission denied
-┌─[✗]─[gozas@where]─[~/work]
-└──╼ $ chmod +x WouldntOpen/
-┌─[gozas@where]─[~/work]
-└──╼ $ cd WouldntOpen/
-┌─[gozas@where]─[~/work/WouldntOpen]
-└──╼ $ 	
+└──╼ $ chmod 600 a.txt 	
