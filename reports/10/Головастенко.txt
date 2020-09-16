@@ -1,17 +1,10 @@
-Задание 6
+Задание 7
 1.
-┌─[gozas@where]─[~/work]
-└──╼ $ tar cfv some.tar a.txt digits.txt sflines 
-a.txt
-digits.txt
-sflines
-┌─[gozas@where]─[~/work]
-└──╼ $ zip some.zip some.tar 
-  adding: some.tar (deflated 98%)
+┌─[alexgo@there]─[~/work]
+└──╼ $ touch a.txt
+┌─[alexgo@there]─[~/work]
+└──╼ $ chmod 640 a.txt 
 2.
-┌─[gozas@where]─[~/work]
-└──╼ $ unzip some.zip 
-Archive:  some.zip
-  inflating: some.tar 
-┌─[gozas@where]─[~/work]
-└──╼ $ tar xf some.tar	
+┌─[alexgo@there]─[~/work]
+└──╼ $ chmod 642 a.txt 
+ 
