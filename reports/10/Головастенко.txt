@@ -1,10 +1,51 @@
-Задание 7
+Задание 8
 1.
 ┌─[alexgo@there]─[~/work]
-└──╼ $ touch a.txt
-┌─[alexgo@there]─[~/work]
-└──╼ $ chmod 640 a.txt 
+└──╼ $ find /usr/bin/z*
+/usr/bin/zathura
+/usr/bin/zcat
+/usr/bin/zcmp
+/usr/bin/zdiff
+/usr/bin/zdump
+/usr/bin/zegrep
+/usr/bin/zenity
+/usr/bin/zfgrep
+/usr/bin/zforce
+/usr/bin/zgrep
+/usr/bin/zic
+/usr/bin/zip
+/usr/bin/zipcloak
+/usr/bin/zipcmp
+/usr/bin/zipgrep
+/usr/bin/zipinfo
+/usr/bin/zipmerge
+/usr/bin/zipnote
+/usr/bin/zipsplit
+/usr/bin/ziptool
+/usr/bin/zless
+/usr/bin/zlib-flate
+/usr/bin/zmf2raw
+/usr/bin/zmf2svg
+/usr/bin/zmore
+/usr/bin/znew
+/usr/bin/zoom
+/usr/bin/zramctl
+/usr/bin/zresample
+/usr/bin/zretune
+/usr/bin/zsoelim
+/usr/bin/zstd
+/usr/bin/zstdcat
+/usr/bin/zstdgrep
+/usr/bin/zstdless
+/usr/bin/zstdmt
+/usr/bin/zzcat
+/usr/bin/zzdir
+/usr/bin/zzxorcat
+/usr/bin/zzxorcopy
+/usr/bin/zzxordir
 2.
 ┌─[alexgo@there]─[~/work]
-└──╼ $ chmod 642 a.txt 
- 
+└──╼ $ sudo find / -mtime 0
+
+
+(BTW not including actual files for security reasons and due to ginormous amounts of them(10 MB))
