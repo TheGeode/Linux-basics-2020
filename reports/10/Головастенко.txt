@@ -1,42 +1,20 @@
-Задание 10 
+Задание 11
 1.
 ┌─[alexgo@there]─[~/work]
-└──╼ $ mkdir checkpermdir
+└──╼ $ touch a.txt
 ┌─[alexgo@there]─[~/work]
-└──╼ $ ls -la
-total 10396
-drwxr-xr-x   4 alexgo alexgo     4096 Sep 16 17:10 .
-drwxr-x---+ 88 alexgo tardis    16384 Sep 16 17:08 ..
--rw-r---w-   1 alexgo alexgo        0 Sep 16 16:43 a.txt
--rw-r--r--   1 alexgo alexgo     2212 Sep 16 16:42 calendar
-drwxr-xr-x   2 alexgo alexgo     4096 Sep 16 17:10 checkpermdir
--rw-r--r--   1 alexgo alexgo        0 Sep 16 17:10 checkpermfile
--rw-r--r--   1 alexgo alexgo 10562549 Sep 16 16:56 chfiles
--rw-r--r--   1 alexgo alexgo       11 Sep 16 16:42 digits.txt
--rw-r--r--   1 alexgo alexgo      176 Sep 16 16:42 headfile
--rw-r--r--   1 alexgo alexgo      715 Sep 16 16:42 sflines
--rw-r--r--   1 alexgo alexgo    10240 Sep 16 16:42 some.tar
--rw-r--r--   1 alexgo alexgo      338 Sep 16 16:42 some.zip
--rw-r--r--   1 alexgo alexgo       41 Sep 16 16:42 sum
--rw-r--r--   1 alexgo alexgo      226 Sep 16 16:42 t3
--rw-r--r--   1 alexgo alexgo      272 Sep 16 16:42 tailfile
--rw-r--r--   1 alexgo alexgo       50 Sep 16 16:42 test
--rw-r--r--   1 alexgo alexgo       22 Sep 16 16:42 twolines
-drwxr-xr-x   2 alexgo alexgo     4096 Sep 16 16:42 WouldntOpen
-
-rw owner r group r everybody else for both
-x for everyone for directories
+└──╼ $ chmod o+w a.txt
 2.
 ┌─[alexgo@there]─[~/work]
-└──╼ $ find /etc/*.conf | head -10
-/etc/brltty.conf
-/etc/dhcpcd.conf
-/etc/dhcpd6.conf
-/etc/dhcpd.conf
-/etc/dleyna-server-service.conf
-/etc/dnsmasq.conf
-/etc/e2scrub.conf
-/etc/ebtables.conf
-/etc/fuse.conf
-/etc/gai.conf
-
+└──╼ $ mv a.txt aaa.txt
+┌─[alexgo@there]─[~/work]
+└──╼ $ cat > aaa.txt 
+Hey Missy, you so fine,  
+you so fine you blow my mind.
+^C
+┌─[✗]─[alexgo@there]─[~/work]
+└──╼ $ cat aaa.txt 
+Hey Missy, you so fine,
+you so fine you blow my mind.
+┌─[alexgo@there]─[~/work]
+└──╼ $ rm aaa.txt 
