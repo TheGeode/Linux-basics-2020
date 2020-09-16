@@ -1,51 +1,22 @@
-Задание 8
+Задание 9
 1.
 ┌─[alexgo@there]─[~/work]
-└──╼ $ find /usr/bin/z*
-/usr/bin/zathura
-/usr/bin/zcat
-/usr/bin/zcmp
-/usr/bin/zdiff
-/usr/bin/zdump
-/usr/bin/zegrep
-/usr/bin/zenity
-/usr/bin/zfgrep
-/usr/bin/zforce
-/usr/bin/zgrep
-/usr/bin/zic
-/usr/bin/zip
-/usr/bin/zipcloak
-/usr/bin/zipcmp
-/usr/bin/zipgrep
-/usr/bin/zipinfo
-/usr/bin/zipmerge
-/usr/bin/zipnote
-/usr/bin/zipsplit
-/usr/bin/ziptool
-/usr/bin/zless
-/usr/bin/zlib-flate
-/usr/bin/zmf2raw
-/usr/bin/zmf2svg
-/usr/bin/zmore
-/usr/bin/znew
-/usr/bin/zoom
-/usr/bin/zramctl
-/usr/bin/zresample
-/usr/bin/zretune
-/usr/bin/zsoelim
-/usr/bin/zstd
-/usr/bin/zstdcat
-/usr/bin/zstdgrep
-/usr/bin/zstdless
-/usr/bin/zstdmt
-/usr/bin/zzcat
-/usr/bin/zzdir
-/usr/bin/zzxorcat
-/usr/bin/zzxorcopy
-/usr/bin/zzxordir
+└──╼ $ sudo find / -user alexgo | wc
+find: ‘/proc/1185934’: No such file or directory
+find: ‘/proc/1185958/task/1185958/fd/6’: No such file or directory
+find: ‘/proc/1185958/task/1185958/fdinfo/6’: No such file or directory
+find: ‘/proc/1185958/fd/5’: No such file or directory
+find: ‘/proc/1185958/fdinfo/5’: No such file or directory
+find: ‘/proc/1185962’: No such file or directory
+find: ‘/proc/1185979’: No such file or directory
+find: ‘/proc/1185993’: No such file or directory
+ 386763  493547 30623418
+(I do not have a "student" user, so I checked for files owned by my existing user)
+38763 files
 2.
 ┌─[alexgo@there]─[~/work]
-└──╼ $ sudo find / -mtime 0
+└──╼ $ tail -5 /etc/passwd | wc
+      5      10     287
+10 words
 
 
-(BTW not including actual files for security reasons and due to ginormous amounts of them(10 MB))
